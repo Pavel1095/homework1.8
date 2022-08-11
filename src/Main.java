@@ -6,6 +6,6 @@ public class Main {
        warAndPeace.setPublishDate(1867);
 
         System.out.println(levTolstoy);
-        System.out.println(warAndPeace)
+        System.out.println(warAndPeace);
     }
 }
